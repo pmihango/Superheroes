@@ -27,6 +27,7 @@ A simple Superheroes Rails REST API that fetches heroes and their powers.
 - Change a power
 > `PATCH /powers/:id`
 
+Deployement link https://superheros-9lun.onrender.com 
 
 ### Technology Used
 ![](https://img.shields.io/badge/Github-black)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/Ruby-Red)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/Postman-orange)
